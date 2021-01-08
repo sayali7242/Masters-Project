@@ -1,0 +1,7 @@
+1. This folder contains the code files for carrier detection and for retaining top ORs. 
+
+2. It also contains the ORs of clusters found by every clustering method considered. 
+
+3. The 'Top ORs' subfolder contains the top ORs for every method and code to find GRU clusters that are present in their entirety in ADO clusters, overlapping GRU and ADO clusters for every method. 
+
+4. 'Top ORs' subfolder also contains the code to find common clusters across clustering methods used in this study. 

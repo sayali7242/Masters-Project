@@ -1,0 +1,5 @@
+1. This folder contains the ssID and gene lookup codes for the cluster elements in different clusters found by different methods used. 
+
+2. Subfolder 'Subset' contains the gene lookups of overlapping GRU and ADO clusters. 
+
+3. 'Complete Set' contains the gene lookup for clusters that exist in their entirety in ADO and GRU. 

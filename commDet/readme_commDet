@@ -1,0 +1,5 @@
+1. Subfolder comm_code contains the python codes used for finding clusters using community detection by information flow simulation method. 
+
+2. comm_ado contains the clusters found by commDet using different values of k on ADO data. 
+
+3. comm_gru contains the clusters found by commDet using different values of k on GRU data.

@@ -1,0 +1,5 @@
+1. This folder contains python codes to find clusters using Spectral Clustering with K-means and Discretization. 
+
+2. Subfolder Spectral_DS contains the clusters found by spectral clustering algorithm using discretization method for both ado and gru data. These clusters were obtained on the entire dataset by varying the number of clusters. 
+
+2. Subfolder Spectral_KM contains the clusters found by spectral clustering algorithm using K-Means method for both ado and gru data. These clusters were obtained on the entire dataset by varying the number of clusters. 

@@ -1,0 +1,7 @@
+1. This folder contains the code (bit_array.py) to convert the original data into bit-array format. 
+
+2. Folders subfolders ado and gru contain binarized ADO and GRU data used for CCC calculations respectively along with the file containing missing data positions for both the datasets.
+
+3. tally.py contains the code to calculate CCC values between a pair of alleles. 
+
+4. Folder CCC_ado_gru contains the calculated ccc values for both ado and gru datasets. 

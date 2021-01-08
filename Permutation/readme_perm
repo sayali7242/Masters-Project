@@ -1,0 +1,5 @@
+1. This folder conatins the code to perform permutation trails on our data to account for type-I accuracy errors. 
+
+2. Subfolders 'ado' and 'gru' contain all the permuted data files, their binarized representations, missing data positions, and CCC values computed for the data obtained on permutation for ADO and GRU datasets respectively. 
+
+3. 'Highest CCC' subfolder contains the code to get highest CCC value of each permuted dataset. 

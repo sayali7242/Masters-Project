@@ -1,0 +1,6 @@
+This folder contains the subset of 5000 SNPs considered for our study for both GRU and ADO datasets.  
+
+1. ado_case_5000.csv and ado_ctrl_5000.csv are the case and control files for ADO dataset. 
+2. gru_case_5000.csv and gru_ctrl_5000.csv are the case and control files for GRU dataset. 
+3. ado_case_ctrl_combined.csv is a datafile with cases and controls combined for ADO for CCC calculation. 
+4. gru_case_ctrl_combined.csv is a datafile with cases and controls combined for GRU for CCC calculation. 

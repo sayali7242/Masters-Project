@@ -1,0 +1,5 @@
+1. This folder contains scripts to run the original MCL code on our data after successful installation of MCL package. 
+
+2. MCL package can be installed in ubuntu by following the steps given here: https://www.micans.org/mcl/index.html?sec_software
+
+3. The folder also contains the clusters found by MCL after changing the sparsity of our graph and the inflation parameter used by MCL, along with the data. 
